@@ -31,3 +31,8 @@ npm.cmd run build
 ## Batas prototipe
 
 Data masih berupa simulasi dan kembali ke kondisi awal setelah halaman dimuat ulang. Jangan gunakan data penduduk asli sebelum API, autentikasi berbasis peran, database terenkripsi, audit log server, HTTPS, backup, dan kebijakan retensi data diterapkan.
+
+## Kredit foto
+
+- `public/images/barelang.jpg`: Hildo Trazo, CC BY 2.0, Wikimedia Commons.
+- `public/images/pemko-batam.jpg`: situs resmi E-Monev Pemerintah Kota Batam.
